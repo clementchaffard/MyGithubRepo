@@ -1,0 +1,9 @@
+[submodule "ada-2021-project-sv4ever"]
+	path = ada-2021-project-sv4ever
+	url = https://github.com/epfl-ada/ada-2021-project-sv4ever
+[submodule "ada-2020-project-milestone-p3-p3_cgq"]
+	path = ada-2020-project-milestone-p3-p3_cgq
+	url = https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_cgq
+[submodule "CS-433"]
+	path = CS-433
+	url = https://github.com/clementchaffard/CS-433
