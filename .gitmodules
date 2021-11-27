@@ -16,3 +16,6 @@
 [submodule "Handwritten_digit_classification_NN/CS-433"]
 	path = Handwritten_digit_classification_NN/CS-433
 	url = https://github.com/clementchaffard/CS-433
+[submodule "Civil_war_onset"]
+	path = Predicting_civil_war_onset/Predict_civil_war_onset
+	url = https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_cgq
