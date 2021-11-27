@@ -7,3 +7,6 @@
 [submodule "CS-433"]
 	path = CS-433
 	url = https://github.com/clementchaffard/CS-433
+[submodule "Predicting_civil_war_onset"]
+	path = ada-2020-project-milestone-p3-p3_cgq
+	url = https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_cgq
