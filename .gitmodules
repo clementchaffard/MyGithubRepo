@@ -19,3 +19,6 @@
 [submodule "Civil_war_onset"]
 	path = Predicting_civil_war_onset/Predict_civil_war_onset
 	url = https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_cgq
+[submodule "Flir_temperature_image_extraction/Flir_temperature_image_extraction"]
+	path = Flir_temperature_image_extraction/Flir_temperature_image_extraction
+	url = https://github.com/CS-433/ml-project-2-ccd_ml_part2
